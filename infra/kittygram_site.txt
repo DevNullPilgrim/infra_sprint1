@@ -1,0 +1,5 @@
+IP: 158.160.9.46;
+name_taski: https://taski.serveminecraft.net/;
+name_kittygram: https://kittytest.duckdns.org/;
+login: admin;
+password: admin;
